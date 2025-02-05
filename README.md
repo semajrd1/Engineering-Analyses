@@ -19,15 +19,3 @@ This repository contains Python scripts for performing various **engineering cal
    python CompBolt.py
    ```
    Replace `CompBolt.py` with the script you want to execute.
-
-## Dependencies  
-
-These scripts require Python and may use libraries like `numpy`, `scipy`, or `matplotlib`. Install dependencies using:  
-```bash
-pip install -r requirements.txt
-```
-*(If a `requirements.txt` file is not included, install relevant packages manually.)*
-
-## License  
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
