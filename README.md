@@ -5,7 +5,7 @@ This repository contains Python scripts for performing various **engineering cal
 ## Contents  
 
 - **`CompBolt.py`** – Performs **pin-loading calculations** for analysing stress, load distribution, or joint integrity in pin-loaded composite connections.  
-- **`thesis_FA-Particle_swarm_optimisation.py`** – Implements **Particle Swarm Optimization (PSO)** to solve an example engineering optimisation problem.  
+- **`FA-Particle_swarm_optimisation.py`** – Implements **Particle Swarm Optimization (PSO)** to solve an example engineering optimisation problem.  
 
 ## Usage  
 
