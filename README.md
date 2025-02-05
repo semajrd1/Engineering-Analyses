@@ -1,6 +1,6 @@
 # Engineering Analyses  
 
-This repository contains Python scripts for performing various **engineering calculations and optimization tasks**. The scripts focus on computational methods used in structural and mechanical engineering, as well as optimization techniques.
+This repository contains Python scripts for performing various **engineering calculations and optimization tasks**. The scripts focus on computational methods used in structural and mechanical engineering, as well as optimisation techniques.
 
 ## Contents  
 
